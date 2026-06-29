@@ -1,3 +1,4 @@
+
 # Strategy Pattern - Spring Boot Demo
 
 A Spring Boot 4.1.0 project demonstrating the **Strategy Design Pattern** with a payment processing REST API.
@@ -101,3 +102,5 @@ curl -X POST http://localhost:8080/api/payments/checkout \
 ```
 
 Server starts on `http://localhost:8080` by default.
+=======
+
